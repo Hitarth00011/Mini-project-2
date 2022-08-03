@@ -1,4 +1,4 @@
-/*Calculator
+/* Rock Paper Scissors
 
 
 
